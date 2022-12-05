@@ -1,6 +1,6 @@
-# BigMac Kiosk
+# Big Mac Kiosk
 
-Streamlit Application
+Streamlit application demo for GCS10004-07-2022F (Handong Global University)
 
 ## Requirements
 
