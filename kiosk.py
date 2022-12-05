@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Order")
 
-st.image("img/menu.png", width=300)
+st.image("img/bigmac-menu.png", width=300)
 
 choice = st.radio(
     "What would you like?", ["Sandwich Only", "Set (Sandwich + Fries + Coke)"]
